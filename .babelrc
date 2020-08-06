@@ -1,0 +1,8 @@
+// tells babel when it is trying to transpile - what presets are in use
+
+{
+  "presets": [
+    "env",
+    "stage-0"
+  ]
+}
