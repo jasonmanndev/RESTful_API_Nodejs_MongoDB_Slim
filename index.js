@@ -4,7 +4,7 @@ import mongoose from 'mongoose';
 import bodyParser from 'body-Parser';
 
 const app = express();
-const PORT = 4000;
+const PORT = 4001;
 
 //mongoose connection
 

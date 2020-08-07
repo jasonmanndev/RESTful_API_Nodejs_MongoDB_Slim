@@ -1,13 +1,13 @@
 {
   "name": "crm",
   "version": "1.0.0",
-  "description": "CRM Backend",
+  "description": "Very basic API with 5 controllers that will interact with MongoDB",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js"
   },
   "author": "Jason Mann",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
